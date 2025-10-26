@@ -1,0 +1,21 @@
+h1 + p {
+    font-family: Arial, sans-serif;
+    
+}
+
+#Mercerdes{
+    border-left: 5px solid red;  
+    border-right: 5px solid red;
+}
+
+#Ferrari{
+    border-top: 5px solid blue;
+    border-left: 5px solid blue;  
+    border-right: 5px solid blue;
+}
+#geral{
+    border-top: 5px solid rgb(36, 73, 86);
+    border-left: 1px solid rgb(34, 180, 225);  
+    border-right: 1px solid rgb(34, 180, 225);
+    border-bottom: 1px solid rgb(34, 180, 225);
+}
